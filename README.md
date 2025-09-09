@@ -26,10 +26,18 @@ cd ton-projet
 docker-compose up --build
 ```
 ### Routes principales
--GET /todos — Liste des tâches
+- **GET /api/todos — Liste des tâches**
 
--POST /todos — Ajouter une tâche
+-POST /api/todos — Ajouter une tâche
 
--PUT /todos/:id — Modifier une tâche
+-PUT /api/todos/:id — Modifier une tâche
 
--DELETE /todos/:id — Supprimer une tâche
+-DELETE /api/todos/:id — Supprimer une tâche
+
+### Technologies utilisées
+
+Node.js, Express
+
+MongoDB
+
+Docker, Docker Compose
