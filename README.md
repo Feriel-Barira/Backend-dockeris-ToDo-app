@@ -37,14 +37,12 @@ docker-compose up --build
 <img width="1077" height="730" alt="do1" src="https://github.com/user-attachments/assets/3e3cb0dc-91fd-490c-86ee-a0e924589932" />
 <img width="1035" height="785" alt="do2" src="https://github.com/user-attachments/assets/d2326c67-e312-48e2-b5f2-49fb0c6ae279" />
 <img width="1031" height="791" alt="do3" src="https://github.com/user-attachments/assets/97adbdba-5d02-4d34-98fd-b6b6b31930ec" />
-<img width="1037" height="765" alt="do4" src="https://github.com/user-attachments/assets/2ec09513-ca8b-4455-a97e-0ae2d96dfa29" />
 <img width="1077" height="672" alt="do5" src="https://github.com/user-attachments/assets/280db755-2acb-4e86-8fd8-c6cfcf5237c7" />
-<img width="1072" height="726" alt="do6" src="https://github.com/user-attachments/assets/8b9c58a3-c044-47d8-b3ec-2f989a244f5d" />
 
 ### Technologies utilisées
 
-**Node.js, Express**
+- **Node.js, Express**
 
-**MongoDB**
+- **MongoDB**
 
-**Docker, Docker Compose**
+- **Docker, Docker Compose**
